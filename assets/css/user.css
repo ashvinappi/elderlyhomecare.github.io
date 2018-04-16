@@ -354,3 +354,30 @@ p.animated.bounceInRight{
   top:-100px;
 }
 
+.row{
+  margin:0 auto;
+  width:1360px;
+}
+
+div.row.register-form{
+  margin-left:0;
+  margin-right:0;
+  width:inherit;
+}
+
+footer{
+  background-color:#292c2f;
+  box-shadow:0 1px 1px 0 rgba(0, 0, 0, 0.12);
+  box-sizing:border-box;
+  width:100%;
+  text-align:left;
+  font:bold 16px sans-serif;
+  padding:55px 50px;
+  bottom:0;
+  color:#fff;
+}
+
+footer{
+  width:inherit;
+}
+
