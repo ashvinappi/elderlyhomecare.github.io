@@ -381,3 +381,39 @@ footer{
   width:inherit;
 }
 
+div.jumbotron{
+}
+
+h1#service{
+  align-content:center;
+  text-align:center;
+}
+
+p#subservice{
+  text-align:center;
+}
+
+h1#title{
+  text-align:center;
+}
+
+p#subtitle{
+  text-align:center;
+}
+
+h2#community{
+  text-align:center;
+}
+
+p#subcommunity{
+  text-align:center;
+}
+
+h1#approach{
+  text-align:center;
+}
+
+p#subapproach{
+  text-align:center;
+}
+
